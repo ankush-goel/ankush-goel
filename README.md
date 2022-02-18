@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning new languages 
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me - through github account 'ankush-goel'
+- 📫 How to reach me - through github account 'ankush-goel', goelankush8268@gmail.com
 
 <!---
 ankush-goel/ankush-goel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
