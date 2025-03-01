@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 ankush-goel/ankush-goel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" style="float: right; width: 200px;" />
-
 ## ⚒️ Tech Stack  
 
 <p align="left">
@@ -36,9 +33,10 @@ You can click the Preview link to take a look at your changes.
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode" />
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple?logo=eclipseide" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop" />
 </p>
 
-<p align="right">
+<p align="right" style="margin-top: -100px;">
     <img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="150"/>
 </p>
 
