@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
+    <td style="width: 70%; vertical-align: top; border: none;">
 
 <!-- Enlarged Tech Stack Badges -->
 <p>
@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
    </td>
-   <td style="width: 30%; text-align: right; vertical-align: middle;">
+   <td style="width: 30%; text-align: right; vertical-align: middle; border: none;">
 
-<!-- Image (Fully aligned to the right) -->
-<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="220"/>
+<!-- Image (Now fully aligned to the right) -->
+<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="240"/>
 
    </td>
   </tr>
