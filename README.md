@@ -14,31 +14,42 @@ You can click the Preview link to take a look at your changes.
 --->
 ## ⚒️ Tech Stack  
 
-<p align="left">
-    <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java" />
-    <img alt="C" src="https://img.shields.io/badge/C-blue?logo=c" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-darkblue?logo=c%2B%2B" />
-    <img alt="R" src="https://img.shields.io/badge/R-lightblue?logo=r" />
-    <br>
-    <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" />
-    <br>
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git" />
-    <br>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode" />
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple?logo=eclipseide" />
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop" />
+<table>
+  <tr>
+    <td>
+
+<!-- Tech stack badges -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java" />
+  <img alt="C" src="https://img.shields.io/badge/C-blue?logo=c" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-darkblue?logo=c%2B%2B" />
+  <img alt="R" src="https://img.shields.io/badge/R-lightblue?logo=r" />
+  <br>
+  <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" />
+  <br>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git" />
+  <br>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode" />
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple?logo=eclipseide" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-blue?logo=adobephotoshop" />
 </p>
 
-<p align="right" style="margin-top: -100px;">
-    <img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="150"/>
-</p>
+   </td>
+   <td>
+
+<!-- Image aligned to the right -->
+<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="160"/>
+
+   </td>
+  </tr>
+</table>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
