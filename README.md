@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning new languages 
 - 💞️ I’m looking to collaborate on github
-<img alt="Cutting Edge" src=["https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)"/>
+<img alt="Cutting Edge" src= "https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 - 📫 How to reach me - through github account 'ankush-goel', goelankush8268@gmail.com , https://www.linkedin.com/in/goelankush8268/
 
 <!---
