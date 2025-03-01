@@ -13,29 +13,31 @@ ankush-goel/ankush-goel is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## ⚒️ Tech Stack  
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <div style="flex-grow: 1;">
+        <h2>⚒️ Tech Stack</h2>
+        <p>
+            <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
+            <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
+            <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java" />
+            <img alt="C" src="https://img.shields.io/badge/C-blue?logo=c" />
+            <img alt="C++" src="https://img.shields.io/badge/C++-darkblue?logo=c%2B%2B" />
+            <img alt="R" src="https://img.shields.io/badge/R-lightblue?logo=r" />
+            <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
+            <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
+            <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" />
+            <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5" />
+            <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3" />
+            <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git" />
+            <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
+            <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode" />
+            <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple?logo=eclipseide" />
+        </p>
+    </div>
 
-<p align="left">
-    <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java" />
-    <img alt="C" src="https://img.shields.io/badge/C-blue?logo=c" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-darkblue?logo=c%2B%2B" />
-    <img alt="R" src="https://img.shields.io/badge/R-lightblue?logo=r" />
-    <img alt="React" src="https://img.shields.io/badge/React-blue?logo=react" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?logo=node.js" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?logo=html5" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?logo=css3" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-red?logo=git" />
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode" />
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-purple?logo=eclipseide" />
-</p>
+    <img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" style="width: 150px; height: auto; margin-left: 100px;" />
+</div>
 
-<p align="right">
-    <img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="150"/>
-</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
