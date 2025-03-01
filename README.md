@@ -13,7 +13,7 @@ ankush-goel/ankush-goel is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" style="display: block; margin-left: auto; margin-right: 0; width: 100px;" />
+<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" style="float: right; width: 500px;" />
 
 
 ### 🛠 &nbsp;Tech Stack
