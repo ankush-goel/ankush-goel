@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-![image](https://user-images.githubusercontent.com/20955511/183303756-2b0134af-ab8b-42d4-b805-4e853f929c5e.png)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ankush-goel&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
