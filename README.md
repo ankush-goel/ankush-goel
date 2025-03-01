@@ -9,7 +9,7 @@ ankush-goel/ankush-goel is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://github.com/ankush-goel/ankush-goel/blob/main/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
