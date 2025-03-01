@@ -42,14 +42,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 
    </td>
-   <td style="width: 30%; text-align: center; vertical-align: middle;">
+   <td style="width: 30%; text-align: right; vertical-align: middle;">
 
-<!-- Image (Wider to balance the page) -->
-<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="200"/>
+<!-- Image (Fully aligned to the right) -->
+<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="220"/>
 
    </td>
   </tr>
 </table>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
