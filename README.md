@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
    <td style="width: 30%; text-align: right; vertical-align: middle; border: none;">
 
 <!-- Image (Now fully aligned to the right) -->
-<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="240"/>
+<img alt="Ankush Goel" src="https://raw.githubusercontent.com/ankush-goel/ankush-goel/refs/heads/main/file_gif.gif" width="290"/>
 
    </td>
   </tr>
